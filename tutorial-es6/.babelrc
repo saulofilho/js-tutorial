@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env"], //converte as features do ecma script para o navegador
+    "plugins": ["@babel/proposal-class-properties"]
+}
